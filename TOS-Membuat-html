@@ -12,7 +12,7 @@
                 <input type="text"><br>
                 <label>Password</label><br>
                 <input type="password"><br>
-                <button>Log in</button>
+                <button>Masuk</button>
             </form>
         </div>   
         <style>
