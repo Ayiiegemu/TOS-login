@@ -22,3 +22,11 @@ body{
                 background-color: rgba(0,0,0,.7);
                 box-shadow: 0 0 10px rgba(255,255,255,.3);
             }
+.container form button{
+                width: 100%;
+                padding: 5px 0;
+                border: none;
+                background-color:#2979ff;
+                font-size: 18px;
+                color: #fafafa;
+            }
